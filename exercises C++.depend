@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1516377396 source:/home/yasser/codeblocks projects/exercises C++/main.cpp
+	<iostream>
+	<joueur.h>
+	<international.h>
+
+1516377260 source:/home/yasser/codeblocks projects/exercises C++/src/joueur.cpp
+	"joueur.h"
+
+1516377260 /home/yasser/codeblocks projects/exercises C++/include/joueur.h
+	<iostream>
+
+1516377681 /home/yasser/codeblocks projects/exercises C++/include/international.h
+	<iostream>
+	<joueur.h>
+
+1516377937 source:/home/yasser/codeblocks projects/exercises C++/src/international.cpp
+	"international.h"
+
