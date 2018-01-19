@@ -34,9 +34,11 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/entraineur.h" />
 		<Unit filename="include/international.h" />
 		<Unit filename="include/joueur.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/entraineur.cpp" />
 		<Unit filename="src/international.cpp" />
 		<Unit filename="src/joueur.cpp" />
 		<Extensions>
